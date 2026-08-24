@@ -4,7 +4,7 @@
 
 #### Student: Zayla
 
-#### GitHub Username: <YOUR GITHUB USERNAME>
+#### GitHub Username: zaylaeugene-glitch
 
 #### Location: Charlotte, North Carolina, United States
 
