@@ -1,7 +1,6 @@
 # StockSmart Inventory Manager
 
-#### Video Demo: <PASTE YOUR UNLISTED YOUTUBE URL HERE>
-
+#### Video Demo: https://youtu.be/oReGsRulFLs
 #### Student: Zayla
 
 #### GitHub Username: zaylaeugene-glitch
